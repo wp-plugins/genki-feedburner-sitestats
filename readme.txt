@@ -2,7 +2,7 @@
 Contributors: Genkisan
 Tags: feedburner, site stats
 Requires at least: 2.0.0
-Tested up to: 2.1.3
+Tested up to: 2.7.0
 Stable tag: 1.0.0
 
 Insert Feedburner SiteStats code (without Feeds Flare) for a speed boost
