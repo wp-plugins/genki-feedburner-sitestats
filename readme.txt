@@ -12,6 +12,10 @@ Insert Feedburner SiteStats code (without Feeds Flare) for a speed boost
 - insert the Feedburner SiteStats code into footer
 - will work even when you change theme
 
+**Demo:**
+
+[Plugin Details & Demo](http://ericulous.com/2007/05/10/wp-plugin-genki-feedburner-sitestats/)
+
 == Installation ==
 
 1. Upload and activate plugin
